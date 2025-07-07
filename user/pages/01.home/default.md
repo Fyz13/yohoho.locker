@@ -1,5 +1,5 @@
 ---
-title: YoHoHo Bet - Komprehensibong pagsusuri ng bookmaker, casino at affiliate program111
+title: YoHoHo Bet - Komprehensibong pagsusuri ng bookmaker, casino at affiliate program
 metadata:
     description: Alamin ang lahat tungkol sa pagtaya sa sports, mga linya, casino, slots, esports, mobile app at affiliate program ng YoHoHo.bet
 ---
